@@ -16,19 +16,19 @@ const JsUser = {
     fullname :"Rajdeep Singha",
     [mysym]:"my key1",// symbol represents object, toh square brackets rakne se sirf obj hoga nehi toh string ki tarha kaam karega
     age:18,
-    location:"jaipur",
+    location:"West Bengal",
     email:"rajdeepsingha384@gmail.com",
     isLoggedIn: false,
     lastLogininDays: ["Monday","Saturday"]
 }
 console.log(JsUser.email)
-console.log(JsUser["email"])// array mein "" lagana zaruri hota hain value ko acess karne ke liye
+console.log(JsUser["email"])// array mein "" lagana zaruri hota hain value ko access karne ke liye
 console.log(JsUser["fullname"])
 console.log(JsUser[mysym])
 console.log(typeof[mysym])// object
 
 
-JsUser.email = "rajdeep@chatgpt.com"
+JsUser.email = "rajdeep@chatgpt.com"// to change some values of some function
 //Object.freeze(JsUser)
 JsUser.email = "rajdeep@microsoft.com"
 console.log(JsUser)

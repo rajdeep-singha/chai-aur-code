@@ -13,7 +13,7 @@ let userone={
 
 let usertwo = userone
 
-usertwo.email =" hitesh@google.com,"
+usertwo.email =" hitesh@google.com",
 
 console.log(userone);
 console.log(usertwo);

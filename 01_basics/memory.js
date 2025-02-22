@@ -1,10 +1,10 @@
 //  STACK(Primitive), Heap(Non-Primitive)
-/* let myYoutubename ="rajdeepsinghadotcom"
+ let myYoutubename ="rajdeepsinghadotcom"
 
 let anothername = myYoutubename
  anothername= "chai with code"
 console.log(anothername)
-console.log(myYoutubename) */
+console.log(myYoutubename) 
 
 let userone={
     email: "rajdeepsingha384@gmail.com",

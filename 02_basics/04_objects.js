@@ -56,7 +56,7 @@ const users1=[
 ]
 users1
 
-//console.log(object.keys(tinderuser));
+// console.log(object.keys(tinderuser));
 //console.log(object.values(tinderuser));
 //console.log(object.entries(tinderuser));
 
